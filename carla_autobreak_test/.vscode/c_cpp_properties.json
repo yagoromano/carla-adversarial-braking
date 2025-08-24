@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/carrot/carla-ros-bridge/install/carla_waypoint_types/include/**",
+        "/home/carrot/carla-ros-bridge/install/carla_ros_scenario_runner_types/include/**",
+        "/home/carrot/carla-ros-bridge/install/carla_ackermann_msgs/include/**",
+        "/home/carrot/carla-ros-bridge/install/carla_msgs/include/**",
+        "/home/carrot/carla-ros-bridge/src/install/carla_waypoint_types/include/**",
+        "/home/carrot/carla-ros-bridge/src/install/carla_ros_scenario_runner_types/include/**",
+        "/home/carrot/carla-ros-bridge/src/install/carla_ackermann_msgs/include/**",
+        "/home/carrot/carla-ros-bridge/src/install/carla_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/carrot/carla-ros-bridge/src/ros-bridge/pcl_recorder/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

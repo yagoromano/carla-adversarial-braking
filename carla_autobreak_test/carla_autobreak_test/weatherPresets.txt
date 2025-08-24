@@ -1,0 +1,43 @@
+Bright, clear sky:
+        msg.cloudiness = 0.0
+        msg.precipitation = 0.0
+        msg.precipitation_deposits = 0.0
+        msg.wind_intensity = 0.0
+        msg.fog_density = 0.0
+        msg.fog_distance = 0.0
+        msg.wetness = 0.0
+        msg.sun_azimuth_angle = 0.0
+        msg.sun_altitude_angle = 40.0
+
+Cloudy, dark, and rainy:
+        msg.cloudiness = 100.0
+        msg.precipitation = 100.0
+        msg.precipitation_deposits = 0.0
+        msg.wind_intensity = 7.0
+        msg.fog_density = 0.0
+        msg.fog_distance = 0.0
+        msg.wetness = 50.0
+        msg.sun_azimuth_angle = 0.0
+        msg.sun_altitude_angle = 10.0
+
+Foggy:
+        msg.cloudiness = 0.0
+        msg.precipitation = 0.0
+        msg.precipitation_deposits = 0.0
+        msg.wind_intensity = 0.0
+        msg.fog_density = 50.0
+        msg.fog_distance = 45.0
+        msg.wetness = 0.0
+        msg.sun_azimuth_angle = 0.0
+        msg.sun_altitude_angle = 40.0
+
+Foggy and rainy:
+        msg.cloudiness = 0.0
+        msg.precipitation = 100.0
+        msg.precipitation_deposits = 0.0
+        msg.wind_intensity = 10.0
+        msg.fog_density = 50.0
+        msg.fog_distance = 45.0
+        msg.wetness = 50.0
+        msg.sun_azimuth_angle = 0.0
+        msg.sun_altitude_angle = 40.0

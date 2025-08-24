@@ -1,0 +1,76 @@
+
+Town01:
+        msg.position.x = 280.41910552978516
+        msg.position.y = -133.42250061035156
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = -0.00022339682148449444
+        msg.orientation.w = 0.9999999750469297
+
+Town02:
+        msg.position.x = -7.434427261352539
+        msg.position.y = -155.03111267089844
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = -0.7074533320471954
+        msg.orientation.w = 0.706760054391766
+
+Town03:
+        msg.position.x = 5.841102600097656
+        msg.position.y = -160.12277221679688
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = 0.70934031402892
+        msg.orientation.w = 0.7048661709100198
+
+Town04:
+        msg.position.x = -403.2430725097656
+        msg.position.y = -33.812374114990234
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = 0.0040304173405133785
+        msg.orientation.w = 0.9999918778317703
+
+
+
+Town05:
+        msg.position.x = -157.42904663085938
+        msg.position.y = -94.8451919555664
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = -0.0004
+        msg.orientation.w = 0.9999999990799697
+
+Town06:
+        msg.position.x = -12.1849946975708
+        msg.position.y = 51.95240783691406
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = -0.7089932328164185
+        msg.orientation.w = 0.7052152833143588
+
+Town07:
+        msg.position.x = -5.300025939941406
+        msg.position.y = 30.39421844482422
+        msg.position.z = 1.0
+        msg.orientation.x = 0.0
+        msg.orientation.y = 0.0
+        msg.orientation.z = -0.710288970253684
+        msg.orientation.w = 0.7039101407285663
+
+Town11:
+        msg.position.x = -617.0
+        msg.position.y = 340.0
+        msg.position.z = 140.0
+        msg.orientation.x = 0.010389362207934676
+        msg.orientation.y = -0.01114965218122589
+        msg.orientation.z = 0.681643393311188
+        msg.orientation.w = 0.7315258237166746
+
+Town12:
